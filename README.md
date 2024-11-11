@@ -11,4 +11,4 @@ A imagem criada neste projeto foi otimizada para ser menor que 2 MB e realiza ap
 Para executar essa imagem direto do Docker Hub, utilize o comando abaixo:
 
 ```bash
-docker run seu-usuario/fullcycle
+docker push mariogomes23/fullcycle-desafio-go:latest
